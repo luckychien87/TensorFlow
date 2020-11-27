@@ -16,6 +16,7 @@ The following are all the changes coming in TensorFlow 2.x. Let's have a closer 
 * Alternative variable scoping
 * Small changes here!!
 * second try changes !!
+* last try
   
 
 ## Eager Execution
